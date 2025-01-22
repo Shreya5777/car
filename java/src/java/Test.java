@@ -1,9 +1,13 @@
 package java;
 
 public class Test {
-	public void addition()
+	public static void main(String [] args)
 	{
-		system.out.println(" this is addition");
+		public void addition()
+			{
+			System.out.println("this is addition");
+			
+	
 	}
 	
 	
