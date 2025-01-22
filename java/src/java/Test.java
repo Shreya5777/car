@@ -6,6 +6,10 @@ public class Test {
 	{
 		System.out.println("this is addition");
 		{
+			public void multiply()
+				{
+				System.out.println("this is multiply");
+				
 		
 				
 			}
